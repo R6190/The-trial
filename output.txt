@@ -1,0 +1,6 @@
+total 4
+-rw-rw-r-- 1 hanuman hanuman    0 Jan 29 17:47 a.txt
+-rw-rw-r-- 1 hanuman hanuman    0 Jan 29 17:47 b.txt
+-rw-rw-r-- 1 hanuman hanuman    0 Jan 29 17:47 c.txt
+lrwxrwxrwx 1 hanuman hanuman    9 Jan 29 17:44 mysink -> dir2/file
+drwxrwxr-x 2 hanuman hanuman 4096 Jan 29 17:44 dir2
